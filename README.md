@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Fruittm
-- 👀 I’m interested in le gaming
-- 🌱 I’m currently learning cpp, python, java
-- 💞️ I’m looking to collaborate on funny things
-- 📫 How to reach me Fruit#0420
+I make stuff 
 
 
 <!---
